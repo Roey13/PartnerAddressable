@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    direction: rtl;
+    .loading{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 95vh;
+    }
+}
+
+html {
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Droid Sans, Helvetica Neue,
+        sans-serif;
+    line-height: 1.6;
+    background-image: url('../../img/bgc.jpg');
+    // background-color: rgb(196, 95, 23);
+}
